@@ -1,0 +1,12 @@
+{
+  "name": "oblivion",
+  "version": "1.0.0",
+  "description": "You don't want to know",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.mjs"
+  },
+  "keywords": [],
+  "author": "@mateonunez",
+  "license": "MIT"
+}
